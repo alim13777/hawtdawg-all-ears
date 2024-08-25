@@ -18,3 +18,4 @@ your profile
 a fresh-from-the-groomer glamour
 Showcase your best self—whether that means
 fetch.
+new line
